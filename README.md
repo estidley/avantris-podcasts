@@ -1,11 +1,11 @@
-# Adventurous Podcasts
+# Avantris Podcasts
 
 Separate, unofficial RSS feeds for Legends of Avantris campaigns.
 
 | Campaign | Episodes | Subscribe |
 | --- | ---: | --- |
-| Stardust Rhapsody: Anthem | 37 | [RSS feed](https://estidley.github.io/adventurous-podcasts/stardust-rhapsody-anthem.xml) |
-| Stardust Rhapsody: Overture | 15 | [RSS feed](https://estidley.github.io/adventurous-podcasts/stardust-rhapsody-overture.xml) |
+| Stardust Rhapsody: Anthem | 37 | [RSS feed](https://estidley.github.io/avantris-podcasts/stardust-rhapsody-anthem.xml) |
+| Stardust Rhapsody: Overture | 15 | [RSS feed](https://estidley.github.io/avantris-podcasts/stardust-rhapsody-overture.xml) |
 
 Paste a feed URL into a podcast app that supports adding podcasts by URL.
 
@@ -17,5 +17,5 @@ Source: [Official Legends of Avantris RSS](https://feed.podbean.com/legendsofava
 
 If GitHub Pages is not available, use these direct file URLs:
 
-- [Stardust Rhapsody: Anthem](https://raw.githubusercontent.com/estidley/adventurous-podcasts/main/stardust-rhapsody-anthem.xml)
-- [Stardust Rhapsody: Overture](https://raw.githubusercontent.com/estidley/adventurous-podcasts/main/stardust-rhapsody-overture.xml)
+- [Stardust Rhapsody: Anthem](https://raw.githubusercontent.com/estidley/avantris-podcasts/main/stardust-rhapsody-anthem.xml)
+- [Stardust Rhapsody: Overture](https://raw.githubusercontent.com/estidley/avantris-podcasts/main/stardust-rhapsody-overture.xml)
